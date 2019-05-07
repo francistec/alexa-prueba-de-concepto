@@ -19,6 +19,18 @@ Despliegue
 serverless deploy
 ```
 
+## Recursos despelegados
+
+Metodo | Ejemplo de recursos desplegados
+------------ | -------------
+GET | https://id-api-gateway.execute-api.us-east-1.amazonaws.com/dev/content
+GET | https://id-api-gateway.execute-api.us-east-1.amazonaws.com/dev/quote?from=2019-08-01&to=2019-08-03
+GET | https://id-api-gateway.execute-api.us-east-1.amazonaws.com/dev/quote/economico?from=2019-08-01&to=2019-08-03
+
+
+
+
+
 ## Contacto
 
 * Francis L. Tec Can
