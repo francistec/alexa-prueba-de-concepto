@@ -4,7 +4,9 @@ Este código, es ejemplo de un desarrollo para una rentadora de autos
 ## Requisitos
 
 * Cuenta en [AWS](https://aws.amazon.com/es/)
+* Node v8.10
 * Instalar el [Framework Serverless](https://serverless.com/) 
+* Revisar [Api de renta de autos](https://github.com/francistec/rest-renta-de-autos)
 * Ser muy feliz 😸
 
 ## Instalación
@@ -12,14 +14,11 @@ Este código, es ejemplo de un desarrollo para una rentadora de autos
 yarn install
 ```
 
-
 ## Despliegue
 
 ```bash
 serverless deploy
 ```
-
-
 
 ## Contacto
 
